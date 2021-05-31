@@ -37,3 +37,7 @@ Here are some ideas to get you started:
  - IntelliJ Idea
  - Сheckstyle, JaCoCo
  - Travic CI
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makigen&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makigen&show_icons=true&theme=default&hide=stars,prs,issues,contribs)
