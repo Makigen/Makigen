@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 ##### Projects:
 
-   - [Console CRUD app using JDBC](https://github.com/Makigen/job4j_tracker)
+   - [Console CRUD app using JDBC](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker)
    - [Console chat app](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/ConsoleChat.java)
    - [Comand line file searcher using maven packaging and command line arguments](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/search/Find.java)
    <!--- [Job grabber(HTML Parser using JSOP)](https://github.com/Makigen/job4j_grabber)-->
