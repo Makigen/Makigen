@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Kirill and I'm <s>alcoholic</s> learning Java! 😄
 
+Currently working on: [Java job aggregator](https://github.com/Makigen/job4j_grabber)
+
 <!--
 **Makigen/Makigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
