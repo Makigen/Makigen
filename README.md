@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Kirill and I'm <s>alcoholic</s> learning Java! 😄
 
-Currently working on: [Java job aggregator](https://github.com/Makigen/job4j_grabber)
-
 <!--
 **Makigen/Makigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,17 +22,20 @@ Here are some ideas to get you started:
    - [OOP, Exceptions, Collections Framework, Sorting, Iterators, Design Patterns & Good Practices](https://github.com/Makigen/job4j_tracker)
    - [Functional Programming (Stream API](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/stream) [Lambda)](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/lambda)
    - [Algorithms and data structures](https://github.com/Makigen/job4j_design)
-   - [SQL, PostreSQL, JDBC, IO, Sockets, GC, OOD, SOLID and TDD](https://github.com/Makigen/job4j_design)
+   - [SQL, PostgreSQL, JDBC, IO, Sockets, GC, OOD, SOLID and TDD](https://github.com/Makigen/job4j_design)
  
 ##### Projects:
 
    - [Console CRUD app using JDBC](https://github.com/Makigen/job4j_tracker/tree/master/src/main/java/ru/job4j/tracker)
    - [Console chat app](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/ConsoleChat.java)
    - [Comand line file searcher using maven packaging and command line arguments](https://github.com/Makigen/job4j_design/blob/master/src/main/java/ru/job4j/io/search/Find.java)
-   <!--- [Job grabber(HTML Parser using JSOP)](https://github.com/Makigen/job4j_grabber)-->
+   - [Job-offers aggregator (HTML Parser using Jsoup, JDBC, Quartz)](https://github.com/Makigen/job4j_grabber) 
+
 ##### Tools used:
  - Maven
  - jUnit
+ - JDBC
+ - PostgreSQL
  - Git
  - IntelliJ Idea
  - Сheckstyle, JaCoCo
