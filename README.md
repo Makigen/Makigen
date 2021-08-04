@@ -1,4 +1,5 @@
 ### Hi there 👋 My name is Kirill and I'm <s>alcoholic</s> learning Java! 😄
+<a href="https://ee.linkedin.com/in/kirill-malikov-41706897"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **Makigen/Makigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
